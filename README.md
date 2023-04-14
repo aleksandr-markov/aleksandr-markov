@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @aleksandr-markov
-- 👀 I’m interested in Web Development in PHP, Laravel, Symfony and Vue.js
-- 🌱 I’m currently learning Vue.js and Symfony
+- 👀 I’m interested in Web Development in PHP, Laravel and Vue.js
